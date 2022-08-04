@@ -2,7 +2,9 @@
 
 ## Login
 La pass para acceder es siempre **1234**.
-Para acceder como "Administrador", el nombre de usuario a ingresar es: admin -> Tiene todos los permisos.
+
+Para acceder como "Administrador", el nombre de usuario a ingresar es: **admin** -> Tiene todos los permisos.
+
 Cualquier otro nombre de usuario permitirá acceder como usuario "común" -> Sólo puede visualizar el listado de alumnos.
 
 ## Menú lateral
